@@ -1,0 +1,2 @@
+text color : #24252a
+hover: rgb(207, 226, 226);
